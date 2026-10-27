@@ -1,0 +1,1 @@
+if(dp[idx]!=-1) return dp[idx]
